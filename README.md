@@ -1,4 +1,4 @@
-# Data-Strucutres-and-algorithms-using-Python-by-Coding-Ninjas
+# Coding Ninjas - Data Structures and Algorithms using Python
 
 
 Included all the solved problems and assignments taught in the DSA course by Coding Ninjas
